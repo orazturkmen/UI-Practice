@@ -1,9 +1,15 @@
 body{
-    background: aqua;
+    background: #DDDDDD;
 }
 
 p{
-    background-color: bisque;
+    background-color: #EEEEEE;
     font-size: 20px;
     font-family: Dialog;
+}
+.class1{
+    background-color: #9CAFAA;
+    font-size: 13px;
+    font-family: Candara;
+
 }
